@@ -97,6 +97,8 @@ Use them in js if code is too ugly and unorganized
 use Pool when there are some limited resources to controll access (db connection pool or third party calls limiter)
 
 # Security
+require('crypto')
+
 scrypt
 argon
 
