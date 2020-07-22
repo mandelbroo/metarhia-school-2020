@@ -8,3 +8,5 @@
 - GoF
 - graceful shutdown
 - api request queue
+
+- try creating app with two way crypted sensitive data
